@@ -1,8 +1,8 @@
 # fastSocial
 
-## FastAPI Social Media Backend Clone
+## FastAPI Social Media Backend
 
-A comprehensive FastAPI implementation replicating the backend functionality of a social media application.
+An API implementation replicating the backend functionality of a social media application.
 
 ## Features
 
@@ -16,8 +16,8 @@ A comprehensive FastAPI implementation replicating the backend functionality of 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Sanjeev-Thiyagarajan/fastapi-course.git
-   cd fastapi-course
+   git clone https://github.com/sebwylleman/fastSocial.git
+   cd fastSocial
    ```
 
 2. **Install Dependencies:**
@@ -64,5 +64,3 @@ The interactive API documentation (Swagger UI) at `http://127.0.0.1:8000/docs` p
 
 - This project is a learning exercise and may not be suitable for production use without further modifications and security enhancements.
 - Consider exploring additional features like commenting, following/followers, real-time updates, etc., to make the API more comprehensive.
-
-Let me know if you'd like any further refinements or have more specific questions!
